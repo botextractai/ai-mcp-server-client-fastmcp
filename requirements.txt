@@ -1,0 +1,6 @@
+fastmcp==2.2.6
+langchain-mcp-adapters==0.0.9
+langchain-openai==0.3.16
+langgraph==0.4.1
+python-dotenv==1.1.0
+yfinance==0.2.58
